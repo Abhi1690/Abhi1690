@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center"> I break things so they stay unbroken</h1>
 
 ### 👨‍💻 About Me
 
@@ -23,7 +23,6 @@ Hi, I'm **Abhishek Das**.
 - 🛡️ I design secure-by-design architectures and write the security scripts and tooling that enforce them
 - 📚 I'm currently learning **LLM and AI agent security**
 - ⚡ In my free time I tinker with hardware, play CTFs, read, travel and play guitar
-- 💬 Ask me about **threat modeling, secure architecture, and embedded or mobile security**
 
 ### 🛡️ Security Architect
 
@@ -126,16 +125,4 @@ I architect security for products end to end, from silicon to cloud, and write t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-</div>
-
-### 🔥 My Stats
-
-<!-- Replace YOUR-GITHUB-USERNAME with your actual GitHub username -->
-<div align="left">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Abhi1690&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi1690&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-
-<div align="left">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Abhi1690&theme=github-dark&hide_border=true" />
 </div>
